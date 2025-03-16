@@ -157,12 +157,6 @@ Naila Shehzadi
 - GitHub: [NailaShehzadi](https://github.com/Nailashehzadi01)
 - Email: Nailashehzadi396@gmail.com
 
-## 🙏 Acknowledgments
 
-- Arduino Community
-- Contributors and Testers
-- Open Source Community
-
----
 
 
